@@ -1,0 +1,12 @@
+pkgbase = firefox-search-duckduckgo
+	pkgdesc = Firefox search engine plugin for DuckDuckGo with SSL
+	pkgver = 1
+	pkgrel = 4
+	url = https://www.duckduckgo.com/
+	arch = any
+	license = unknown
+	depends = firefox
+	source = duckduckgo.xml::https://duckduckgo.com/opensearch.xml
+
+pkgname = firefox-search-duckduckgo
+
